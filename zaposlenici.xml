@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Zaposlenici>
+    <Zaposlenik>
+        <Ime>Vili</Ime>
+        <Prezime>Veroš</Prezime>
+        <Odjel>CEO</Odjel>
+        <Email>vver@tvrtka.com</Email>
+        <Slika>img/image06.jpg</Slika>
+    </Zaposlenik>
+    <Zaposlenik>
+        <Ime>Jelena</Ime>
+        <Prezime>Zgrožga</Prezime>
+        <Odjel>Human Resources</Odjel>
+        <Email>jezg@tvrtka.com</Email>
+        <Slika>img/image04.jpg</Slika>
+    </Zaposlenik>
+    <Zaposlenik>
+        <Ime>Tereza</Ime>
+        <Prezime>Kešovija</Prezime>
+        <Odjel>Customer Support</Odjel>
+        <Email>teke@tvrtka.com</Email>
+        <Slika>img/image08.jpg</Slika>
+    </Zaposlenik>
+    <Zaposlenik>
+        <Ime>Goran</Ime>
+        <Prezime>Barem</Prezime>
+        <Odjel>Sales</Odjel>
+        <Email>gbarem@tvrtka.com</Email>
+        <Slika>img/image07.jpg</Slika>
+    </Zaposlenik>
+    <Zaposlenik>
+        <Ime>Josipa</Ime>
+        <Prezime>Pisac</Prezime>
+        <Odjel>Sales</Odjel>
+        <Email>jpisac@tvrtka.com</Email>
+        <Slika>img/image03.jpg</Slika>
+    </Zaposlenik>
+    <Zaposlenik>
+        <Ime>Ivo</Ime>
+        <Prezime>Salamander</Prezime>
+        <Odjel>Accounting</Odjel>
+        <Email>salami@tvrtka.com</Email>
+        <Slika>img/image10.jpg</Slika>
+    </Zaposlenik>
+    <Zaposlenik>
+        <Ime>Željko</Ime>
+        <Prezime>Mjeervan</Prezime>
+        <Odjel>Accounting</Odjel>
+        <Email>zeervan@tvrtka.com</Email>
+        <Slika>img/image02.jpg</Slika>
+    </Zaposlenik>
+    <Zaposlenik>
+        <Ime>Mirela</Ime>
+        <Prezime>Ohoholi</Prezime>
+        <Odjel>Information Technology</Odjel>
+        <Email>moho@tvrtka.com</Email>
+        <Slika>img/image01.jpg</Slika>
+    </Zaposlenik>
+    <Zaposlenik>
+        <Ime>Vesna</Ime>
+        <Prezime>Lopata Ozmolt</Prezime>
+        <Odjel>Information Technology</Odjel>
+        <Email>vlopozml@tvrtka.com</Email>
+        <Slika>img/image05.jpg</Slika>
+    </Zaposlenik>
+    <Zaposlenik>
+        <Ime>Mile</Ime>
+        <Prezime>Krekin</Prezime>
+        <Odjel>Information Technology</Odjel>
+        <Email>mikre@tvrtka.com</Email>
+        <Slika>img/image09.jpg</Slika>
+    </Zaposlenik>
+</Zaposlenici>

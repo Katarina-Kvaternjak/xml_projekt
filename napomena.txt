@@ -1,0 +1,3 @@
+Kako bi mogli pravilno vidjeti projekt morate imati instaliran XAMPP.
+
+Ako u XAMPP-u u direktoriju php pronađete datoteku php.ini i unutra maknete ; ispred extension=xsl Tada se u login.php, zaposlenici.html može zamijeniti sa zaposlenici.php čime se postiže da se html uvijek nanovo generira pri loginu iz postojećeg xml-a i xslt-a.
